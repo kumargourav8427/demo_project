@@ -38,20 +38,17 @@ function HomePage() {
                   src="https://www.netguru.com/hubfs/_N23/assets/logos/ikea.svg"
                   alt=""
                   width={45}
-
                 />
                 <img
                   src="https://www.netguru.com/hubfs/_N23/assets/logos/ubs.svg"
                   alt=""
                   width={45}
-
                 />
 
                 <img
                   src="https://www.netguru.com/hubfs/_N23/assets/logos/volkswagen.svg"
                   alt=""
                   width={25}
-
                 />
                 <img
                   src="https://www.netguru.com/hubfs/_N23/assets/logos/olx.svg"
